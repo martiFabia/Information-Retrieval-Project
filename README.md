@@ -19,6 +19,11 @@ The main goal of this project is to design and analyze a scalable IR system, foc
 The system is tested on the **MS MARCO Passage Dataset**, a widely used benchmark in modern information retrieval research.
 
 ---
+> ⚠️ For full functionality, open it in Google Colab or JupyterLab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kZpJ08eJ87cFUHdFMF6pFj9_bc13WkRJ )
+
+---
 
 ## 📂 Dataset
 
